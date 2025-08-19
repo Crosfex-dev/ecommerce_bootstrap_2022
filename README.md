@@ -9,20 +9,33 @@ Este proyecto es una **simulación de tienda online** creada en **2022** durante
 /ecommerce_bootstrap_2022
 │
 ├── index.html # Página de inicio
+
 ├── home.html # Página alterna de inicio o contenido destacado
+
 ├── products.html # Catálogo de productos
+
 ├── product-info.html # Detalles de un producto específico
+
 ├── cart.html # Simulación del carrito de compras
+
 ├── categories.html # Filtrado por categorías
+
 ├── sell.html # Página para publicar producto (simulada)
+
 ├── my-profile.html # Perfil de usuario (simulado)
+
 │
 ├── css/ # Estilos personalizados
+
 ├── js/ # Scripts de interacción y funcionalidad básica
+
 ├── img/ # Imágenes usadas en el sitio
+
 ├── webfonts/ # Tipografías utilizadas
+
 │
 ├── package.json # Dependencias (como Bootstrap, iconos, etc.)
+
 └── .gitattributes # Configuración de control de versiones
 
 ---
